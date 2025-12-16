@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <!-- Defs for gradients/filters if needed, but flat is requested -->
+  
+  <!-- Group for Logo Mark (House Icon) -->
+  <g transform="translate(10, 10)">
+    <!-- House Roof -->
+    <path d="M40 50 L80 15 L120 50 L105 50 L80 28 L55 50 Z" fill="#2ba399"/>
+    <!-- House Body -->
+    <rect x="50" y="50" width="60" height="40" fill="none" stroke="#2ba399" stroke-width="8"/>
+    <!-- Door/Window -->
+    <rect x="70" y="65" width="20" height="25" fill="#2ba399"/>
+    <!-- Chimney -->
+    <rect x="100" y="25" width="10" height="20" fill="#2ba399"/>
+  </g>
+  
+  <!-- Text: OHB -->
+  <text x="140" y="80" font-family="Arial, sans-serif" font-weight="bold" font-size="80" fill="#1a3a52" letter-spacing="-2">OHB</text>
+  
+  <!-- Tagline: OUR HOME BUILDERS -->
+  <text x="145" y="105" font-family="Arial, sans-serif" font-weight="normal" font-size="16" fill="#1a3a52" letter-spacing="3">OUR HOME BUILDERS</text>
+</svg>
